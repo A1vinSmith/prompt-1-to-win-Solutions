@@ -8,7 +8,7 @@ function escape(input) {
 
 ">
 <script>
-eval('alert("1");');
+eval('prompt(1);');
 </script>
 <div
 
