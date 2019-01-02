@@ -14,3 +14,6 @@ function escape(input) {
 
 // %2f pass decodeURIComponent
 // @ magic: embedded credentials in subresource requests
+
+// BTW: not work for chrome and chromium
+// https://www.chromestatus.com/feature/5669008342777856
